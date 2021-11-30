@@ -285,7 +285,7 @@
   }
 }
 @media (max-width: 767px) {
-  .service-desc img {
+  .service-desc .image img {
     width: 50%;
     border-radius: 50%;
   }

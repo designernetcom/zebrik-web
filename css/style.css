@@ -7868,7 +7868,7 @@ blockquote .author span {
   background-color: bisque;
 }
 
-.service-desc img {
+.service-desc .image img {
   width: 70%;
   border-radius: 50%;
 }
