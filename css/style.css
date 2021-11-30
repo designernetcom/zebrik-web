@@ -6036,7 +6036,7 @@ header .header-top .header-info-right ul li i {
 }
 
 .help-cta {
-  background-color: #ff9512;
+  background-color: #fff;
   background-position: center;
   background-size: cover;
 }
@@ -7869,7 +7869,8 @@ blockquote .author span {
 }
 
 .service-desc img {
-  width: 100%;
+  width: 70%;
+  border-radius: 50%;
 }
 
 .service-desc h2 {

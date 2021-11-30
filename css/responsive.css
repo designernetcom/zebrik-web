@@ -285,6 +285,13 @@
   }
 }
 @media (max-width: 767px) {
+  .service-desc img {
+    width: 50%;
+    border-radius: 50%;
+  }
+  .service-desc h2 {
+    text-align: center;
+  }
   .theme-btn.theme-btn-lg {
     height: 50px;
     line-height: 49px;
