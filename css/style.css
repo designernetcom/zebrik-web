@@ -7930,9 +7930,9 @@ header::after {
   z-index: 100000;
   top: 0;
   left: 0;
-  width: 120px;
-  border-right: 2px solid #f39521;
-  border-bottom: 2px solid #f39521;
+  width: 130px;
+  /* border-right: 2px solid #f39521;
+  border-bottom: 2px solid #f39521; */
 }
 /* off-canvas-menu */
 .sidenav {
